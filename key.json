@@ -3,5 +3,6 @@
     "sheet": {
         "teneo": "https://docs.google.com/spreadsheets/d/1bHmKPsukPgxoeoWEU9Kc34KGqoI0GTM7lq2Bl8g-PeA/edit?gid=0#gid=0",
         "3dos": "https://docs.google.com/spreadsheets/d/15wV8LjYKTzkLHtf7kBSNrtTlX7_txATqe-jDa2_NBrA/edit?gid=0#gid=0"
-    }
+    },
+    "flag": "print('Hello, World!')"
 }
